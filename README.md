@@ -1,7 +1,7 @@
 # CLIP - GHG Inversion vs National Inventories
 
 ## Background on this CLIP
-This little picture visually compares the difference between the reported and actually measured CO2 levels for Australia (other countries can be created as well. Years with positive values, depicted in white, are emitting more CO2 than they've reported, indicating a surplus released into the atmosphere. Conversely, years with negative values, represented in brown, are effectively absorbing more CO2 than reported, demonstrating a beneficial reduction of CO2 from the atmosphere into the earth or water. 
+This little picture visually compares the difference between the reported and actually measured CO2 levels for Brazil (other countries can be created as well. Years with positive values, depicted in white, are emitting more CO2 than they've reported, indicating a surplus released into the atmosphere. Conversely, years with negative values, represented in brown, are effectively absorbing more CO2 than reported, demonstrating a beneficial reduction of CO2 from the atmosphere into the earth or water. 
 
 ## Data Sources
 The CLIP uses the following datasets:
