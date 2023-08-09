@@ -1,7 +1,10 @@
-# CLIP - GHG Inversion vs National Inventories
+# little picture - ghg inversions
+## Background on this little picture
+_satellite observations can improve national greenhouse gas reporting Nations around the world are making efforts to reduce emissions of climate warming gases._
 
-## Background on this CLIP
-This little picture visually compares the difference between the reported and actually measured CO2 levels for Brazil (other countries can be created as well. Years with positive values, depicted in white, are emitting more CO2 than they've reported, indicating a surplus released into the atmosphere. Conversely, years with negative values, represented in brown, are effectively absorbing more CO2 than reported, demonstrating a beneficial reduction of CO2 from the atmosphere into the earth or water. 
+To track action, countries report their greenhouse gas emissions to the UNFCCC. Researchers have developed a framework using Earth observation satellite data to independently check, and help improve, national inventory greenhouse gas reports that show progress towards Paris Agreement objectives. This bar chart contrasts reported versus space-derived CO 2 in Brazil.
+
+https://climate.esa.int/en/little-pictures-gallery/ghg-inversions/
 
 ## Data Sources
 The CLIP uses the following datasets:
