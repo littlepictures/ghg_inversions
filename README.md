@@ -20,7 +20,7 @@ The CLIP uses the following datasets:
 - It copies relevant columns from the land_flux_df dataframe into a new dataframe df_viz and computes a 'difference' column as the difference between inversion_median and national_inventory.
 - It converts the 'party' column in the df_viz dataframe to string data type.
 
-## Creating Visualizations
+## Creating Visualisations
 - The notebook uses the Altair library to create visualizations of the processed data.
 - It creates an area chart using the mark_area method on the df_viz dataframe, with the year as the X-axis.
 - It also creates a bar chart using the mark_bar method.
