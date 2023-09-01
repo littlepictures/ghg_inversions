@@ -29,6 +29,6 @@ The CLIP uses the following datasets:
 ## CREDITS & LICENSE
 - Idea by: [Ubilabs](https://www.ubilabs.com/)
 - Processing Scripts by: [Ubilabs](https://www.ubilabs.com/)
-- Visualization by: [Ubilabs](https://www.ubilabs.com/)
+- Visualisation by: [Ubilabs](https://www.ubilabs.com/)
 
 The code in this repository is published under [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)
